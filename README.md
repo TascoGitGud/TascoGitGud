@@ -1,6 +1,6 @@
 # Bạch Minh Nam
 
-**AI Graduate · Aspiring Data Analyst · Ho Chi Minh City, Vietnam**
+**Hanoi, Vietnam**
 
 ---
 
