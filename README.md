@@ -1,5 +1,4 @@
 # Bạch Minh Nam
-
 *Hanoi, Vietnam*
 
 An AI graduate with a strong analytical mindset, equipped with hands-on experience in Python data manipulation and foundational SQL knowledge gained through academic and project-based learning.
