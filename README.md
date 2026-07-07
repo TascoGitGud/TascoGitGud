@@ -39,9 +39,8 @@ An AI graduate with analytical mindset, equipped with hands-on experience in Pyt
 
 🛠 **Tools:** ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)  
 
-<div align="center">
 
-## 🚀 Featured Projects
+## 📂 Featured Projects
 
 </div>
 
@@ -128,6 +127,24 @@ An interactive Power BI dashboard integrating fragmented e-commerce sales and Me
 <td width="50%" valign="top">
 
 <div align="center">
+<h3>🤖 <a href="https://github.com/TascoGitGud/Customer-Churn-Prediction-and-Segmentation-for-an-E-commerce-Company">Customer Churn Prediction & Segmentation</a></h3>
+<p><em>Python / Machine Learning</em></p>
+</div>
+
+Predicting churn risk and segmenting **5,630 e-commerce customers** using **Random Forest** & **K-Means Clustering** to support targeted retention strategies. 
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/EDA-2196F3?style=flat-square"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
 <h3>🏗️ <a href="https://github.com/TascoGitGud/Building-an-End-to-end-Retail-Data-Pipeline-for-Techstore-Vietnam">Building an End-to-end Retail Data Pipeline</a></h3>
 <p><em>Python / SQL / Power BI</em></p>
 </div>
@@ -141,23 +158,6 @@ End-to-end Python ETL pipeline ingesting multi-channel retail data from GCS into
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 </p>
 
-</td>
-
-<td width="50%" valign="top">
-
-<div align="center">
-<h3>🤖 <a href="https://github.com/TascoGitGud/Customer-Churn-Prediction-and-Segmentation-for-an-E-commerce-Company">Customer Churn Prediction & Segmentation</a></h3>
-<p><em>Python / Machine Learning</em></p>
-</div>
-
-Predicting churn risk and segmenting **5,630 e-commerce customers** using **Random Forest** & **K-Means Clustering** to support targeted retention strategies. 
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square"/>
-<img src="https://img.shields.io/badge/EDA-2196F3?style=flat-square"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-</p>
 
 </td>
 </tr>
