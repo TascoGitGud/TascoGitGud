@@ -78,7 +78,7 @@ An AI graduate with analytical mindset, equipped with hands-on experience in Pyt
 <p>
 <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google Analytics 4-336791?style=flat-square"/> 
-<img src="https://img.shields.io/badge/Data_Analysis-20B2AA?style=flat-square"/>
+<img src="https://img.shields.io/badge/Traffic_Analysis-20B2AA?style=flat-square"/>
 </p>
 
 </td>
@@ -94,12 +94,12 @@ An AI graduate with analytical mindset, equipped with hands-on experience in Pyt
 <p><em>Power BI Dashboard</em></p>
 </div>
 
-📈 Power BI dashboard analyzing **51,000+ global sales orders** to help Senior Managers track growth, compare regional performance, and identify profitable products. | Power BI
+📈 Power BI dashboard analyzing **51,000+ global sales orders** to help Senior Managers track growth, compare regional performance, and identify profitable products. 
 
 <p>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Business_Intelligence-1E90FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Data_Visualization-9370DB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Market_Analytics-FF4500?style=flat-square"/>
+<img src="https://img.shields.io/badge/Product-00C853?style=flat-square"/>
 </p>
 
 </td>
@@ -111,7 +111,7 @@ An AI graduate with analytical mindset, equipped with hands-on experience in Pyt
 <p><em>Power BI Dashboard</em></p>
 </div>
 
-📊 An interactive Power BI dashboard integrating fragmented e-commerce sales and Meta Ads metrics. Built with **Design Thinking framework** and a custom **Star Schema** model across **4 tables with 10,000+ rows.** | Power BI
+📊 An interactive Power BI dashboard integrating fragmented e-commerce sales and Meta Ads metrics. Built with **Design Thinking framework** and a custom **Star Schema** model across **4 tables with 10,000+ rows.** 
 
 <p>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
@@ -129,16 +129,15 @@ An AI graduate with analytical mindset, equipped with hands-on experience in Pyt
 
 <div align="center">
 <h3>🏗️ <a href="https://github.com/TascoGitGud/Building-an-End-to-end-Retail-Data-Pipeline-for-Techstore-Vietnam">Building an End-to-end Retail Data Pipeline for Techstore Vietnam</a></h3>
-<p><em>End-to-End Data Engineering Pipeline</em></p>
+<p><em>Python / SQL / Power BI</em></p>
 </div>
 
-🚚 End-to-end Python ETL pipeline ingesting multi-channel retail data from GCS into a BigQuery Star Schema and Power BI. Processes **5M+ records** across all sources. | Python / SQL / Power BI
+🚚 End-to-end Python ETL pipeline ingesting multi-channel retail data from GCS into a BigQuery Star Schema and Power BI. Processes **3M+ records** across all sources. 
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/ETL-FF6B6B?style=flat-square"/>
 <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 </p>
 
@@ -148,10 +147,10 @@ An AI graduate with analytical mindset, equipped with hands-on experience in Pyt
 
 <div align="center">
 <h3>🤖 <a href="https://github.com/TascoGitGud/Customer-Churn-Prediction-and-Segmentation-for-an-E-commerce-Company">Customer Churn Prediction & Segmentation for an E-commerce Company</a></h3>
-<p><em>Machine Learning</em></p>
+<p><em>Python / Machine Learning</em></p>
 </div>
 
-👥 Predicting churn risk and segmenting **5,630 e-commerce customers** using **Random Forest** & **K-Means Clustering** to support targeted retention strategies. | Python / Machine Learning
+👥 Predicting churn risk and segmenting **5,630 e-commerce customers** using **Random Forest** & **K-Means Clustering** to support targeted retention strategies. 
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
