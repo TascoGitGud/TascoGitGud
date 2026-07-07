@@ -40,7 +40,7 @@ An AI graduate with analytical mindset, equipped with hands-on experience in Pyt
 🛠 **Tools:** ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)  
 
 
-## 📂 Featured Projects
+## 📂 Pinned Projects
 </div>
 
 <br/>
