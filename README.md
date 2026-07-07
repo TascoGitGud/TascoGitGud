@@ -22,8 +22,7 @@
 
 <br/>
 
-<!-- Gradient Red Divider -->
-<img src="https://i.gifer.com/7VE.gif" width="100%" />
+---
 
 ## 🧑‍💼 About Me
 
