@@ -90,7 +90,7 @@ An Advanced SQL project using the Google Analytics 2017 dataset to perform data 
 
 <div align="center">
 <h3>📊 <a href="https://github.com/TascoGitGud/Global-Superstore-Sales-Performance-Analysis">Global Superstore Sales Performance Analysis</a></h3>
-<p><em>Power BI Dashboard</em></p>
+<p><em>Power BI</em></p>
 </div>
 
 Power BI dashboard analyzing **51,000+ global sales orders** to help Senior Managers track growth, compare regional performance, and identify profitable products. 
@@ -107,7 +107,7 @@ Power BI dashboard analyzing **51,000+ global sales orders** to help Senior Mana
 
 <div align="center">
 <h3>🛍️ <a href="https://github.com/TascoGitGud/Fashion-Revenue-and-Marketing-Campaign-Analysis">Fashion Revenue & Marketing Campaign Analysis</a></h3>
-<p><em>Power BI Dashboard</em></p>
+<p><em>Power BI</em></p>
 </div>
 
 An interactive Power BI dashboard integrating fragmented e-commerce sales and Meta Ads metrics. Built with **Design Thinking framework** and a custom **Star Schema** model across **4 tables with 10,000+ rows.** 
