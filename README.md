@@ -52,7 +52,7 @@ An AI graduate with analytical mindset, equipped with hands-on experience in Pyt
 <td width="50%" valign="top">
 
 <div align="center">
-<h3>🚲 <a href="https://github.com/TascoGitGud/Bicycle-Manufacturer-Performance-Analysis">Bicycle Manufacturer Performance Analysis Using SQL</a></h3>
+<h3>🚲 <a href="https://github.com/TascoGitGud/Bicycle-Manufacturer-Performance-Analysis">Bicycle Manufacturer Performance Analysis</a></h3>
 <p><em>SQL</em></p>
 </div>
 
