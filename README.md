@@ -53,15 +53,15 @@ An AI graduate with analytical mindset, equipped with hands-on experience in Pyt
 
 <div align="center">
 <h3>🚲 <a href="https://github.com/TascoGitGud/Bicycle-Manufacturer-Performance-Analysis-Using-SQL">Bicycle Manufacturer Performance Analysis Using SQL</a></h3>
-<p><em>Advanced SQL Analytics</em></p>
+<p><em>SQL</em></p>
 </div>
 
-🛠️ An Advanced SQL project using the AdventureWorks dataset to perform data analysis through **8 complex operational queries.** | SQL
+🛠️ An Advanced SQL project using the AdventureWorks dataset to perform data analysis through **8 complex operational queries.** 
 
 <p>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/AdventureWorks-336791?style=flat-square"/>
-<img src="https://img.shields.io/badge/Business_Analysis-DC143C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data_Analysis-20B2AA?style=flat-square"/>
 </p>
 
 </td>
@@ -70,13 +70,12 @@ An AI graduate with analytical mindset, equipped with hands-on experience in Pyt
 
 <div align="center">
 <h3>🔍 <a href="https://github.com/TascoGitGud/Google-Analytics-Session-Analysis-Using-SQL">Google Analytics Session Analysis Using SQL</a></h3>
-<p><em>BigQuery SQL Analytics</em></p>
+<p><em>SQL</em></p>
 </div>
 
-🛒 An Advanced SQL project using the Google Analytics 2017 dataset to perform data analysis through **8 complex operational queries.** | SQL
+🛒 An Advanced SQL project using the Google Analytics 2017 dataset to perform data analysis through **8 complex operational queries.** 
 
 <p>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/Data_Analysis-20B2AA?style=flat-square"/>
 </p>
