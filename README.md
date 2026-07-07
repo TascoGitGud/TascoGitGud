@@ -9,15 +9,22 @@
 An AI graduate with analytical mindset, equipped with hands-on experience in Python data manipulation and foundational SQL knowledge gained through academic and project-based learning, seeking an Intern Data Analyst opportunity to apply technical skills in a real-world environment.
 
 <br/>
+## 
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/nam.minh.bach.2025/)
 
 <p>
-  <strong>Let's Connect!</strong><br/>
+  <strong>🤝 Let's Connect!</strong><br/>
 </p>
 
 <a href="mailto:bachminhnam@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 <a href="https://www.linkedin.com/in/bachminhnam/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.facebook.com/nam.minh.bach.2025/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
 
 </div>
