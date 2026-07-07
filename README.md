@@ -6,14 +6,18 @@
 
 <br/>
 
+### 💬 Let's Connect!
+
+<p>
+  <strong>I'm actively seeking Data Analyst Internship opportunities!</strong><br/>
+  <em>Feel free to reach out — I'd love to discuss how I can contribute to your team.</em>
+</p>
+
 <!-- Contact Badges -->
 <a href="mailto:bachminhnam@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 &nbsp;
-<a href="https://github.com/TascoGitGud" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
 &nbsp;
 <a href="https://www.linkedin.com/in/bachminhnam/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
