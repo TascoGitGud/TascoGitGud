@@ -6,11 +6,8 @@
 
 <br/>
 
-### 💬 Let's Connect!
-
 <p>
-  <strong>I'm actively seeking Data Analyst Internship opportunities!</strong><br/>
-  <em>Feel free to reach out — I'd love to discuss how I can contribute to your team.</em>
+  <strong>Let's Connect!</strong><br/>
 </p>
 
 <!-- Contact Badges -->
