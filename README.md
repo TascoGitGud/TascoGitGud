@@ -30,7 +30,6 @@ An AI graduate with analytical mindset, equipped with hands-on experience in Pyt
 |:-----|:---------------------|
 | **📊 Data Analytics** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white) |
 | **💻 Coding** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) 
-| **📈 BI & Visualization** | ![Power BI](https://img.shields.io/badge/Dashboard-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-444876?style=flat-square) |
 | **🛠 Productivity Tools** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)  |
 
 ---
