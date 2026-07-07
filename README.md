@@ -3,6 +3,25 @@
 <!-- Animated Typing -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&repeat=true&width=550&height=45&lines=BACH+MINH+NAM)](https://git.io/typing-svg)
 
+<br/>
+
+<p>
+  <strong>🤝 Let's Connect!</strong><br/>
+</p>
+
+<a href="mailto:bachminhnam@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://www.linkedin.com/in/bachminhnam/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.facebook.com/nam.minh.bach.2025/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+
+</div>
+
+<br/>
 
 ## 🧑‍💼 About Me
 
