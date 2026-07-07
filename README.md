@@ -61,7 +61,7 @@ An AI graduate with analytical mindset, equipped with hands-on experience in Pyt
 <p>
 <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/AdventureWorks-336791?style=flat-square"/>
-<img src="https://img.shields.io/badge/Data_Analysis-20B2AA?style=flat-square"/>
+<img src="https://img.shields.io/badge/Inventory_Management -20B2AA?style=flat-square"/>
 </p>
 
 </td>
@@ -77,8 +77,7 @@ An AI graduate with analytical mindset, equipped with hands-on experience in Pyt
 
 <p>
 <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google Analytics 4s-336791?style=flat-square"/>
-  
+<img src="https://img.shields.io/badge/Google Analytics 4-336791?style=flat-square"/> 
 <img src="https://img.shields.io/badge/Data_Analysis-20B2AA?style=flat-square"/>
 </p>
 
