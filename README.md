@@ -26,26 +26,13 @@ An AI graduate with analytical mindset, equipped with hands-on experience in Pyt
 
 ## 🚀 Skill Set
 
-## 🚀 Skill Set
+📊 **Analytics:** ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)  
 
-**📊 Analytics:**  
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) 
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)  
+💻 **Coding:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-444876?style=flat-square)  
 
-**💻 Coding:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) 
-![Seaborn](https://img.shields.io/badge/Seaborn-444876?style=flat-square)  
+📈 **Visualization:** ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-444876?style=flat-square) ![Power BI](https://img.shields.io/badge/Dashboard-F2C811?style=flat-square&logo=powerbi&logoColor=black)  
 
-**📈 Visualization:**  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=plotly&logoColor=white) 
-![Seaborn](https://img.shields.io/badge/Seaborn-444876?style=flat-square) 
-![Power BI](https://img.shields.io/badge/Dashboard-F2C811?style=flat-square&logo=powerbi&logoColor=black)  
+🛠 **Tools:** ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)  
 
-**🛠 Tools:**  
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) 
-![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white) 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)  
 
 
