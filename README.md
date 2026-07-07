@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Animated Typing -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&width=550&height=45&lines=B%E1%BA%A1ch+Minh+Nam)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&repeat=true&width=550&height=45&lines=B%E1%BA%A1ch+Minh+Nam)](https://git.io/typing-svg)
 
 
 <br/>
@@ -14,7 +14,6 @@
 <a href="mailto:bachminhnam@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-&nbsp;
 &nbsp;
 <a href="https://www.linkedin.com/in/bachminhnam/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
