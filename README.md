@@ -22,6 +22,10 @@
 
 <br/>
 
+<!-- Fancy Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+
 ## 🧑‍💼 About Me
 
 An AI graduate with analytical mindset, equipped with hands-on experience in Python data manipulation and foundational SQL knowledge gained through academic and project-based learning, seeking an Intern Data Analyst opportunity to apply technical skills in a real-world environment.
