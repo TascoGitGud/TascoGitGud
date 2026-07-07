@@ -3,15 +3,7 @@
 <!-- Animated Typing -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&repeat=true&width=550&height=45&lines=BACH+MINH+NAM)](https://git.io/typing-svg)
 
-
-## 🧑‍💼 About Me
-
-An AI graduate with analytical mindset, equipped with hands-on experience in Python data manipulation and foundational SQL knowledge gained through academic and project-based learning, seeking an Intern Data Analyst opportunity to apply technical skills in a real-world environment.
-
 <br/>
-## 
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/nam.minh.bach.2025/)
 
 <p>
   <strong>🤝 Let's Connect!</strong><br/>
@@ -30,6 +22,12 @@ An AI graduate with analytical mindset, equipped with hands-on experience in Pyt
 </div>
 
 <br/>
+
+## 🧑‍💼 About Me
+
+An AI graduate with analytical mindset, equipped with hands-on experience in Python data manipulation and foundational SQL knowledge gained through academic and project-based learning, seeking an Intern Data Analyst opportunity to apply technical skills in a real-world environment.
+
+
 
 ## 🚀 Skill Set
 
