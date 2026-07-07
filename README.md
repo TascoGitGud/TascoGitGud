@@ -41,7 +41,6 @@ An AI graduate with analytical mindset, equipped with hands-on experience in Pyt
 
 
 ## 📂 Featured Projects
-
 </div>
 
 <br/>
