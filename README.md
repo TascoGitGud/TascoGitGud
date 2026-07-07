@@ -52,11 +52,11 @@ An AI graduate with analytical mindset, equipped with hands-on experience in Pyt
 <td width="50%" valign="top">
 
 <div align="center">
-<h3>🚲 <a href="https://github.com/TascoGitGud/Bicycle-Manufacturer-Performance-Analysis-Using-SQL">Bicycle Manufacturer Performance Analysis Using SQL</a></h3>
+<h3>🚲 <a href="https://github.com/TascoGitGud/Bicycle-Manufacturer-Performance-Analysis">Bicycle Manufacturer Performance Analysis Using SQL</a></h3>
 <p><em>SQL</em></p>
 </div>
 
-🛠️ An Advanced SQL project using the AdventureWorks dataset to perform data analysis through **8 complex operational queries.** 
+An Advanced SQL project using the AdventureWorks dataset to perform data analysis through **8 complex operational queries.** 
 
 <p>
 <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white"/>
@@ -69,11 +69,11 @@ An AI graduate with analytical mindset, equipped with hands-on experience in Pyt
 <td width="50%" valign="top">
 
 <div align="center">
-<h3>🔍 <a href="https://github.com/TascoGitGud/Google-Analytics-Session-Analysis-Using-SQL">Google Analytics Session Analysis Using SQL</a></h3>
+<h3>🔍 <a href="https://github.com/TascoGitGud/Google-Analytics-Session-Analysis-Using-SQL">Google Analytics Session Analysis</a></h3>
 <p><em>SQL</em></p>
 </div>
 
-🛒 An Advanced SQL project using the Google Analytics 2017 dataset to perform data analysis through **8 complex operational queries.** 
+An Advanced SQL project using the Google Analytics 2017 dataset to perform data analysis through **8 complex operational queries.** 
 
 <p>
 <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white"/>
@@ -94,12 +94,12 @@ An AI graduate with analytical mindset, equipped with hands-on experience in Pyt
 <p><em>Power BI Dashboard</em></p>
 </div>
 
-📈 Power BI dashboard analyzing **51,000+ global sales orders** to help Senior Managers track growth, compare regional performance, and identify profitable products. 
+Power BI dashboard analyzing **51,000+ global sales orders** to help Senior Managers track growth, compare regional performance, and identify profitable products. 
 
 <p>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Market_Analytics-FF4500?style=flat-square"/>
-<img src="https://img.shields.io/badge/Product-00C853?style=flat-square"/>
+<img src="https://img.shields.io/badge/Product_Analytics-00C853?style=flat-square"/>
 </p>
 
 </td>
@@ -111,7 +111,7 @@ An AI graduate with analytical mindset, equipped with hands-on experience in Pyt
 <p><em>Power BI Dashboard</em></p>
 </div>
 
-📊 An interactive Power BI dashboard integrating fragmented e-commerce sales and Meta Ads metrics. Built with **Design Thinking framework** and a custom **Star Schema** model across **4 tables with 10,000+ rows.** 
+An interactive Power BI dashboard integrating fragmented e-commerce sales and Meta Ads metrics. Built with **Design Thinking framework** and a custom **Star Schema** model across **4 tables with 10,000+ rows.** 
 
 <p>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
@@ -128,11 +128,11 @@ An AI graduate with analytical mindset, equipped with hands-on experience in Pyt
 <td width="50%" valign="top">
 
 <div align="center">
-<h3>🏗️ <a href="https://github.com/TascoGitGud/Building-an-End-to-end-Retail-Data-Pipeline-for-Techstore-Vietnam">Building an End-to-end Retail Data Pipeline for Techstore Vietnam</a></h3>
+<h3>🏗️ <a href="https://github.com/TascoGitGud/Building-an-End-to-end-Retail-Data-Pipeline-for-Techstore-Vietnam">Building an End-to-end Retail Data Pipeline</a></h3>
 <p><em>Python / SQL / Power BI</em></p>
 </div>
 
-🚚 End-to-end Python ETL pipeline ingesting multi-channel retail data from GCS into a BigQuery Star Schema and Power BI. Processes **3M+ records** across all sources. 
+End-to-end Python ETL pipeline ingesting multi-channel retail data from GCS into a BigQuery Star Schema and Power BI. Processes **3M+ records** across all sources. 
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -146,11 +146,11 @@ An AI graduate with analytical mindset, equipped with hands-on experience in Pyt
 <td width="50%" valign="top">
 
 <div align="center">
-<h3>🤖 <a href="https://github.com/TascoGitGud/Customer-Churn-Prediction-and-Segmentation-for-an-E-commerce-Company">Customer Churn Prediction & Segmentation for an E-commerce Company</a></h3>
+<h3>🤖 <a href="https://github.com/TascoGitGud/Customer-Churn-Prediction-and-Segmentation-for-an-E-commerce-Company">Customer Churn Prediction & Segmentation</a></h3>
 <p><em>Python / Machine Learning</em></p>
 </div>
 
-👥 Predicting churn risk and segmenting **5,630 e-commerce customers** using **Random Forest** & **K-Means Clustering** to support targeted retention strategies. 
+Predicting churn risk and segmenting **5,630 e-commerce customers** using **Random Forest** & **K-Means Clustering** to support targeted retention strategies. 
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
