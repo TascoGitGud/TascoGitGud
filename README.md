@@ -1,17 +1,3 @@
-# Bạch Minh Nam
-
-*📅 11/08/2003 📍 Vietnam*
-
-
-
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,45:111827,75:1E3A8A,100:312E81&height=220&section=header&text=Lê%20Anh%20Tuấn&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20%7C%20Turning%20Data%20into%20Business%20Decisions&descSize=16&descColor=38BDF8&descAlignY=56" width="100%"/>
- 
-</div>
-
-<div align="center">
-
 <!-- Animated Typing -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&width=550&height=45&lines=B%E1%BA%A1ch+Minh+Nam)](https://git.io/typing-svg)
 
